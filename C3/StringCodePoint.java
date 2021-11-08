@@ -1,3 +1,4 @@
+package C3;
 
 class StringCodePoint {
     static String greeting ="Hello";

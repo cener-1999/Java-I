@@ -1,4 +1,4 @@
-//subString的规则
+package C3;//subString的规则
 import java.util.Scanner;
 class Main{
     public static String reverse(String str,int index ,int length){

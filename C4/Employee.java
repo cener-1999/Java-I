@@ -2,7 +2,7 @@ package C4;
 
 import java.time.LocalDate;
 
-class Employee{
+public class Employee{
     private static int nextId=1;
 
     private int id;
